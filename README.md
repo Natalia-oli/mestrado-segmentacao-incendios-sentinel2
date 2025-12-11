@@ -1,0 +1,1 @@
+# mestrado-segmentacao-incendios-sentinel2
