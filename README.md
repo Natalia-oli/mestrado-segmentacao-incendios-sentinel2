@@ -73,7 +73,7 @@ Alguns resultados consolidados dos ciclos experimentais (sem valores numéricos 
   - Ainda ocorrem falsos positivos em áreas com padrões espectrais semelhantes a queimadas (solo exposto, sombras, determinadas áreas agrícolas), mas em menor intensidade em relação ao baseline;
   - Há uma relação mais equilibrada entre **sensibilidade** (detectar fogo) e **especificidade** (evitar classificar não-fogo como fogo), sobretudo após o ajuste de limiar (threshold) obtido por varredura.
 
-> Os valores numéricos detalhados (IoU, F1, Precisão, Recall, etc.) podem ser consultados nos arquivos `.csv` em:
-> - `experiments/cycle1/metrics/`
-> - `experiments/cycle2/metrics/`
+> Os valores numéricos detalhados (IoU, F1, Precisão, Recall, etc.) podem ser consultados via Drive:
+👉 [Tabelas e Gráficos](https://drive.google.com/drive/folders/12T-jDdPBqvcVwLOhoVz30jBujwZZXXQ0?usp=sharing, https://drive.google.com/drive/folders/1uVHGXVBcLFsgrYClNindwux-Jvpiutzk?usp=sharing)
+ 
 
